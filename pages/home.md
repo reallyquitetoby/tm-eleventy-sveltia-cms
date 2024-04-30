@@ -1,6 +1,6 @@
 ---
 layout: layouts/page.njk
-title: Eleventy Sveltia CMS Starter changed
+title: Eleventy Sveltia CMS Starter changed again
 date: 2016-01-01T00:00:00.000Z
 permalink: /
 eleventyNavigation:
