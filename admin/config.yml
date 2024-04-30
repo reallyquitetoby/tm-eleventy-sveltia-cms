@@ -10,7 +10,8 @@ backend:
   name: github
   repo: reallyquitetoby/tm-eleventy-sveltia-cms
   branch: master
-
+  base_url: https://sveltia-cms-auth.toby-860.workers.dev
+  # auth_endpoint: /api/auth
 # The folder used to store uploaded images
 media_folder: "assets/img"
 
